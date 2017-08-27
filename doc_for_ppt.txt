@@ -1,0 +1,10 @@
+-cover page->name title eno project name.
+-what is system.
+-need of system.
+-existing system.
+-problem in existing system.
+-proposed system->solution of problem.
+-modules.
+-functionatilty.
+-data dictionary.
+-> pointwise writing in slide.
